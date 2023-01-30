@@ -1,0 +1,15 @@
+C:\Users\isaqu\desktop\VisualStudio\Training\Training\bin\Debug\net6.0\Training.exe
+C:\Users\isaqu\desktop\VisualStudio\Training\Training\bin\Debug\net6.0\Training.deps.json
+C:\Users\isaqu\desktop\VisualStudio\Training\Training\bin\Debug\net6.0\Training.runtimeconfig.json
+C:\Users\isaqu\desktop\VisualStudio\Training\Training\bin\Debug\net6.0\Training.dll
+C:\Users\isaqu\desktop\VisualStudio\Training\Training\bin\Debug\net6.0\Training.pdb
+C:\Users\isaqu\desktop\VisualStudio\Training\Training\obj\Debug\net6.0\Training.csproj.AssemblyReference.cache
+C:\Users\isaqu\desktop\VisualStudio\Training\Training\obj\Debug\net6.0\Training.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaqu\desktop\VisualStudio\Training\Training\obj\Debug\net6.0\Training.AssemblyInfoInputs.cache
+C:\Users\isaqu\desktop\VisualStudio\Training\Training\obj\Debug\net6.0\Training.AssemblyInfo.cs
+C:\Users\isaqu\desktop\VisualStudio\Training\Training\obj\Debug\net6.0\Training.csproj.CoreCompileInputs.cache
+C:\Users\isaqu\desktop\VisualStudio\Training\Training\obj\Debug\net6.0\Training.dll
+C:\Users\isaqu\desktop\VisualStudio\Training\Training\obj\Debug\net6.0\refint\Training.dll
+C:\Users\isaqu\desktop\VisualStudio\Training\Training\obj\Debug\net6.0\Training.pdb
+C:\Users\isaqu\desktop\VisualStudio\Training\Training\obj\Debug\net6.0\Training.genruntimeconfig.cache
+C:\Users\isaqu\desktop\VisualStudio\Training\Training\obj\Debug\net6.0\ref\Training.dll
